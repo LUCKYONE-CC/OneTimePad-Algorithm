@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/luckyone-cc/onetimepad-algorithm/badge)](https://www.codefactor.io/repository/github/luckyone-cc/onetimepad-algorithm)
+
 # OneTimePad Algorithm
 
 This project implements the One-Time Pad encryption algorithm in C#. The One-Time Pad is a symmetric encryption technique that uses a random key, known as the one-time pad, to encrypt and decrypt messages. Please note that this implementation is provided for educational purposes only and may not have all the necessary security features for production use.
